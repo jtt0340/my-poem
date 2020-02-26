@@ -1,11 +1,12 @@
-The Rainbow
+The Rainbow and Unicorn
 
 Red
 Green
 Blue
 Yellow
 Orange
+Unicorn
 Brown
-These are the colors of the rainbow
+These are the colors of the rainbow and unicorn
 
 Author: Jeff Thies
