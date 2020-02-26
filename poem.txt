@@ -1,4 +1,4 @@
-The Rainbow and Unicorn
+The Rainbow and Unicorn and Ponies
 
 Red
 Green
@@ -7,6 +7,6 @@ Yellow
 Orange
 Unicorn
 Brown
-These are the colors of the rainbow and unicorn
+These are the colors of the rainbow and unicorn and ponies
 
 Author: Jeff Thies
