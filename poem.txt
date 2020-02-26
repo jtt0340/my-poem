@@ -7,3 +7,5 @@ Yellow
 Orange
 Brown
 These are the colors of the rainbow
+
+Author: Jeff Thies
